@@ -118,7 +118,7 @@ picture img{
     font-size: 30px;
 }
 
-.price h5{
+.price h3{
     text-decoration: line-through;
     color: var(--Dark-grayish-blue);
     padding-left: 20px;
