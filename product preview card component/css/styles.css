@@ -72,19 +72,12 @@ main{
     .container{
         display: flex;
         align-items: center;
-        max-width: 700px;
-        max-height: 450px;
+        max-width: 650px;
     }
 }
 
 .card{
     padding: 20px;
-}
-
-@media (min-width: 769px){
-    .card{
-
-    }
 }
 
 img{
